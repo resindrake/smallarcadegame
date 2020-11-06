@@ -4,3 +4,5 @@
 
 [node name="Ball" type="Sprite"]
 texture = ExtResource( 1 )
+
+[node name="Hitbox" type="RigidBody2D" parent="."]
