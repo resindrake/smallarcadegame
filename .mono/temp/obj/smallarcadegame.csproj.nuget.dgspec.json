@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/krutonium/smallarcadegame/smallarcadegame.csproj": {}
+  },
+  "projects": {
+    "/home/krutonium/smallarcadegame/smallarcadegame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/krutonium/smallarcadegame/smallarcadegame.csproj",
+        "projectName": "smallarcadegame",
+        "projectPath": "/home/krutonium/smallarcadegame/smallarcadegame.csproj",
+        "packagesPath": "/home/krutonium/.nuget/packages/",
+        "outputPath": "/home/krutonium/smallarcadegame/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/krutonium/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "runtimeIdentifierGraphPath": "/usr/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

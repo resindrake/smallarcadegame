@@ -1,0 +1,8 @@
+/home/krutonium/smallarcadegame/.mono/temp/bin/Debug/smallarcadegame.dll
+/home/krutonium/smallarcadegame/.mono/temp/bin/Debug/smallarcadegame.pdb
+/home/krutonium/smallarcadegame/.mono/temp/obj/Debug/smallarcadegame.csprojAssemblyReference.cache
+/home/krutonium/smallarcadegame/.mono/temp/obj/Debug/smallarcadegame.AssemblyInfoInputs.cache
+/home/krutonium/smallarcadegame/.mono/temp/obj/Debug/smallarcadegame.AssemblyInfo.cs
+/home/krutonium/smallarcadegame/.mono/temp/obj/Debug/smallarcadegame.csproj.CoreCompileInputs.cache
+/home/krutonium/smallarcadegame/.mono/temp/obj/Debug/smallarcadegame.dll
+/home/krutonium/smallarcadegame/.mono/temp/obj/Debug/smallarcadegame.pdb

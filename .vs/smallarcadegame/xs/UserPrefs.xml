@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4586E06E-E87F-414B-815F-A793315ECEA1}|Play in Editor">
+  <MonoDevelop.Ide.ItemProperties.smallarcadegame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="objects/ball.cs">
+    <Files>
+      <File FileName="objects/bat.cs" Line="1" Column="1" />
+      <File FileName="objects/ball.cs" Line="44" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="smallarcadegame" expanded="True">
+            <Node name="smallarcadegame" expanded="True">
+              <Node name="objects" expanded="True">
+                <Node name="ball.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
