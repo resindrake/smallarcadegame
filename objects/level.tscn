@@ -49,8 +49,7 @@ resource_name = "BrickMatrix"
 2/shapes = [  ]
 2/z_index = 0
 
-[node name="BrickGrid" type="TileMap"]
+[node name="Level" type="TileMap"]
 tile_set = SubResource( 1 )
 cell_size = Vector2( 24, 8 )
 format = 1
-tile_data = PoolIntArray( -196608, 2, 0, -196607, 2, 0, -196606, 2, 0, -196605, 2, 0, -131072, 1, 0, -131071, 1, 0, -131070, 1, 0, -131069, 1, 0, -65536, 0, 0, -65535, 0, 0, -65534, 0, 0, -65533, 0, 0 )
